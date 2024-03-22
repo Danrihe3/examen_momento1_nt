@@ -7,7 +7,6 @@ EDWIN SUÁREZ
 
 '''
 
-#Inicio software
 
 import random
 
