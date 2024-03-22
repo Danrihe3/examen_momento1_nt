@@ -1,4 +1,14 @@
-import uuid
+'''
+INTEGRANTES
+
+DANIEL RIOS HERRERA
+JULIAN ÁLVAREZ
+EDWIN SUÁREZ
+
+'''
+
+#Inicio software
+
 import random
 
 idDisponibles=list(range(1,201))

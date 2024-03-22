@@ -6,7 +6,7 @@ JULIAN ÁLVAREZ
 EDWIN SUÁREZ
 
 '''
-
+#Inicio software
 
 frutas=[]
 
